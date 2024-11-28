@@ -1,9 +1,9 @@
 
 # zupu.io
 
-This is zupu.io source code and web services.
+This is zupu.github.io source code and web services.
 
 
 ## LICENSE
 
-ZUPU.IO All rights reserved.
+ZUPU.GITHUB.IO All rights reserved.
